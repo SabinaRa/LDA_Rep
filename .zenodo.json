@@ -20,7 +20,7 @@
 
     "license": "eupl-1.2",
 
-    "title": "LDA_Rep: Algorithm for finding the best representative among LDA replications",
+    "title": "LDA_Rep: Algorithm for finding the best representative among LDA replications",
 
     "grants": [{"id":"IP-2020-02-5071"}]
 }
