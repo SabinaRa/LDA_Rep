@@ -9,3 +9,5 @@ Authors
 * [Sabina Rako](https://github.com/SabinaRa)
 * [Barbara Šlibar](https://github.com/bslibar)
 * [Diana Šimić](https://github.com/disimic)
+
+[![DOI](https://zenodo.org/badge/684625650.svg)](https://zenodo.org/badge/latestdoi/684625650)
